@@ -1,0 +1,5 @@
+Test Set Size: 1000
+BLEU Score: 39.17
+chrF Score: 66.97
+Exact Match Percentage: 6.40%
+
